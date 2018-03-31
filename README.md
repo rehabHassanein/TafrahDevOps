@@ -1,2 +1,2 @@
 # TafrahDevOps
-Hi From 302 labs
+Bye from 302 labs
